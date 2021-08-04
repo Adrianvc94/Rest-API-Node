@@ -1,0 +1,19 @@
+{
+  "name": "taller-node",
+  "version": "1.0.0",
+  "description": "Rest API en Node  del taller de MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrianvc94/Rest-API-Node.git"
+  },
+  "author": "Adrian Vinicio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrianvc94/Rest-API-Node/issues"
+  },
+  "homepage": "https://github.com/Adrianvc94/Rest-API-Node#readme"
+}
