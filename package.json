@@ -8,12 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adrianvc94/Rest-API-Node.git"
+    "url": "https://github.com/Adrianvc94/Rest-API-Node.git"
   },
   "author": "Adrian Vinicio",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Adrianvc94/Rest-API-Node/issues"
   },
-  "homepage": "https://github.com/Adrianvc94/Rest-API-Node#readme"
+  "homepage": "https://github.com/Adrianvc94/Rest-API-Node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.12"
+  }
 }
