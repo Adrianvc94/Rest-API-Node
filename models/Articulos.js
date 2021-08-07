@@ -61,10 +61,12 @@ const articulosSchema = new Schema({
             trim:true 
          },
          fecha_inicio:{ 
-            type:Date
+            type:Date,
+            trim:true
          },
          fecha_finalizacion:{
-            type:Date
+            type:Date,
+            trim:true
          },
          pais:{
             type:String,
